@@ -215,4 +215,4 @@ for player in raptors {
     print("Hi \(player["guardianNames"])! Your child \n\(player["name"]) has been selected to play for the Raptors. First practice will be held in Toronto on March 18th, at 1 PM. Your team's coach is hip hop superstar Aubrey Graham, better known as Drake! He has no athletic coaching ability whatsoever, but tough cookies!")
 }
 
-// Thanks Team Treehouse!
+// Thanks Team Treehouse! I hope I passed!
